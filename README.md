@@ -1,5 +1,3 @@
-# ophthalmology-ai-lab
-AI workflows, research tools, datasets, and prototypes for ophthalmology and vision science.
 # Ophthalmology AI Lab
 
 AI-assisted workflows, research concepts, datasets, and prototype systems focused on ophthalmology and vision science.
@@ -13,12 +11,24 @@ AI-assisted workflows, research concepts, datasets, and prototype systems focuse
 - Vision optimization systems
 - Ophthalmology GPT tools
 
-## Current Goals
+## Current Projects
 
-- Build AI-powered ophthalmology tools
-- Develop explainable keratoconus AI systems
-- Create practical GPT workflows for clinical use
-- Explore AI-native ophthalmology startup ideas
+### Keratoconus AI
+Explainable AI systems for ectasia progression analysis and phenotype classification.
+
+### Ophthalmology GPT Workflows
+Custom GPT systems for research, clinical workflows, and education.
+
+### Vision Optimization Concepts
+Long-term AI-native ophthalmology platform ideas integrating tomography, OCT, refraction, and retinal analysis.
+
+## Technologies
+
+- Python
+- Jupyter Notebook
+- GPT workflows
+- Computer Vision
+- AI-assisted research systems
 
 ## Author
 
